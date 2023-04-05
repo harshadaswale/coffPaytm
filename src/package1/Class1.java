@@ -8,6 +8,7 @@ public class Class1 {
 		 System.out.println("This is testcase 2");
 		 System.out.println("This is testcase 3");
 		 System.out.println("This is testcase 4 by amol");
+		  System.out.println("This is testcase 5");
 		 
 }
 }
